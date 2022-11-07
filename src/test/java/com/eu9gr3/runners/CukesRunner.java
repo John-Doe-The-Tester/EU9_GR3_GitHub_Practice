@@ -17,7 +17,9 @@ import org.junit.runner.RunWith;
 		features = "src/test/resources/features",
 		glue = "com/eu9gr3/step_definitions",
 		dryRun = false,
+
 		tags = "@KENAN",
+
 		publish = false
 )
 
