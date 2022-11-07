@@ -18,7 +18,7 @@ import org.junit.runner.RunWith;
 		glue = "com/eu9gr3/step_definitions",
 		dryRun = false,
 
-		tags = "@KENAN",
+		tags = "@yakup",
 
 		publish = false
 )
