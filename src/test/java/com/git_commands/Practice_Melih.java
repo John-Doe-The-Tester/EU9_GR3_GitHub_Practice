@@ -7,4 +7,9 @@ public class Practice_Melih {
     // bir daha
     // beşinci satır
 
+
+    // nc1
+    //nc2
+    //nc3
+
 }
