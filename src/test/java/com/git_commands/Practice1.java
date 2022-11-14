@@ -1,5 +1,5 @@
 package com.git_commands;
 
 public class Practice1 {
-	//changes from Master
+	//conflict from local branch
 }
